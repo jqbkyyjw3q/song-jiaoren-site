@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 540" width="1200" height="540" role="img" aria-labelledby="title desc">
+<title id="title">制度双路线对照图</title>
+<desc id="desc">宋教仁希望推动的制度制衡路线与民初现实强人政治路线对照</desc>
+
+<style>
+  .bg { fill: #fffdfa; stroke: rgba(0,0,0,0.08); stroke-width: 1; }
+  .soft { fill: #f2eee6; stroke: rgba(0,0,0,0.08); stroke-width: 1; }
+  .accent { fill: #c46a4a; }
+  .text { fill: #1d1c19; font-family: Inter, Arial, sans-serif; }
+  .muted { fill: #5f5a54; font-family: Inter, Arial, sans-serif; }
+  .serif { fill: #1d1c19; font-family: 'Noto Serif SC', serif; }
+  .line { stroke: #cdbfb1; stroke-width: 2; }
+  .line-strong { stroke: #c46a4a; stroke-width: 3; }
+  .dash { stroke: #9e9489; stroke-width: 2; stroke-dasharray: 6 6; }
+</style>
+
+<rect x="0" y="0" width="1200" height="540" fill="#f7f4ee"/>
+<text x="60" y="55" class="serif" font-size="30" font-weight="600">制度双路线对照：为什么理想路径没能走完</text>
+<text x="60" y="84" class="muted" font-size="16">左侧是宋教仁希望推动的国会—责任内阁路径，右侧是现实中更强势的总统—军政路径。</text>
+<rect x="60" y="120" rx="20" ry="20" width="500" height="360" class="bg"/>
+<rect x="640" y="120" rx="20" ry="20" width="500" height="360" class="soft"/>
+<text x="90" y="158" class="text" font-size="14" font-weight="700">理想路径</text>
+<text x="670" y="158" class="text" font-size="14" font-weight="700">现实路径</text>
+<text x="90" y="188" class="serif" font-size="26">国会多数 → 责任内阁 → 政党政治</text>
+<text x="670" y="188" class="serif" font-size="26">总统集权 → 军政压制 → 暴力升级</text>
+<line x1="160" y1="240" x2="460" y2="240" class="line-strong"/>
+<line x1="740" y1="240" x2="1040" y2="240" class="line-strong"/>
+<rect x="90" y="215" rx="16" ry="16" width="120" height="50" class="soft"/>
+<text x="125" y="247" class="text" font-size="18" font-weight="600">国会</text>
+<rect x="250" y="215" rx="16" ry="16" width="120" height="50" class="soft"/>
+<text x="275" y="247" class="text" font-size="18" font-weight="600">内阁</text>
+<rect x="410" y="215" rx="16" ry="16" width="120" height="50" class="soft"/>
+<text x="435" y="247" class="text" font-size="18" font-weight="600">政党</text>
+<rect x="670" y="215" rx="16" ry="16" width="120" height="50" class="bg"/>
+<text x="695" y="247" class="text" font-size="18" font-weight="600">总统</text>
+<rect x="830" y="215" rx="16" ry="16" width="120" height="50" class="bg"/>
+<text x="855" y="247" class="text" font-size="18" font-weight="600">军权</text>
+<rect x="990" y="215" rx="16" ry="16" width="120" height="50" class="bg"/>
+<text x="1010" y="247" class="text" font-size="18" font-weight="600">行政网</text>
+<text x="90" y="315" class="text" font-size="18" font-weight="600">左侧意味着：</text>
+<text x="90" y="345" class="muted" font-size="16">• 多数党组阁，政府对议会负责</text>
+<text x="90" y="372" class="muted" font-size="16">• 冲突在制度内处理，靠更替而非清除</text>
+<text x="90" y="399" class="muted" font-size="16">• 总统权被相对约束，共和逐步常态化</text>
+<text x="670" y="315" class="text" font-size="18" font-weight="600">右侧意味着：</text>
+<text x="670" y="345" class="muted" font-size="16">• 实力主导权力分配，而非多数主导</text>
+<text x="670" y="372" class="muted" font-size="16">• 议会成为被绕开的制度外壳</text>
+<text x="670" y="399" class="muted" font-size="16">• 暗杀、借款、压制逐渐替代规则竞争</text>
+<line x1="560" y1="300" x2="640" y2="300" class="dash"/>
+<text x="560" y="288" class="muted" font-size="13">宋案暴露裂口</text>
+</svg>

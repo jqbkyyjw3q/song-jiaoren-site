@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" width="1200" height="460" role="img" aria-labelledby="title desc">
+<title id="title">宋案后果链流程图</title>
+<desc id="desc">从宋教仁案到共和失衡的后果链流程图</desc>
+
+<style>
+  .bg { fill: #fffdfa; stroke: rgba(0,0,0,0.08); stroke-width: 1; }
+  .soft { fill: #f2eee6; stroke: rgba(0,0,0,0.08); stroke-width: 1; }
+  .accent { fill: #c46a4a; }
+  .text { fill: #1d1c19; font-family: Inter, Arial, sans-serif; }
+  .muted { fill: #5f5a54; font-family: Inter, Arial, sans-serif; }
+  .serif { fill: #1d1c19; font-family: 'Noto Serif SC', serif; }
+  .line { stroke: #cdbfb1; stroke-width: 2; }
+  .line-strong { stroke: #c46a4a; stroke-width: 3; }
+  .dash { stroke: #9e9489; stroke-width: 2; stroke-dasharray: 6 6; }
+</style>
+
+<rect x="0" y="0" width="1200" height="460" fill="#f7f4ee"/>
+<text x="60" y="55" class="serif" font-size="30" font-weight="600">宋案后果链：从案件震动到共和失衡</text>
+<text x="60" y="84" class="muted" font-size="16">这张图强调的是“层层推进”，不是“一步坠落”。</text>
+<rect x="70" y="150" rx="18" ry="18" width="150" height="82" class="soft"/>
+<rect x="260" y="150" rx="18" ry="18" width="150" height="82" class="soft"/>
+<rect x="450" y="150" rx="18" ry="18" width="150" height="82" class="soft"/>
+<rect x="640" y="150" rx="18" ry="18" width="150" height="82" class="soft"/>
+<rect x="830" y="150" rx="18" ry="18" width="150" height="82" class="soft"/>
+<rect x="1020" y="150" rx="18" ry="18" width="120" height="82" class="soft"/>
+<line x1="220" y1="191" x2="260" y2="191" class="line-strong"/><line x1="410" y1="191" x2="450" y2="191" class="line-strong"/><line x1="600" y1="191" x2="640" y2="191" class="line-strong"/><line x1="790" y1="191" x2="830" y2="191" class="line-strong"/><line x1="980" y1="191" x2="1020" y2="191" class="line-strong"/>
+<text x="100" y="180" class="text" font-size="16" font-weight="700">第一步</text><text x="92" y="206" class="serif" font-size="18">宋教仁遇刺</text>
+<text x="290" y="180" class="text" font-size="16" font-weight="700">第二步</text><text x="281" y="206" class="serif" font-size="18">调查政治化</text>
+<text x="480" y="180" class="text" font-size="16" font-weight="700">第三步</text><text x="458" y="206" class="serif" font-size="18">互信崩塌</text>
+<text x="668" y="180" class="text" font-size="16" font-weight="700">第四步</text><text x="659" y="206" class="serif" font-size="18">二次革命</text>
+<text x="856" y="180" class="text" font-size="16" font-weight="700">第五步</text><text x="846" y="206" class="serif" font-size="18">政党受压</text>
+<text x="1042" y="180" class="text" font-size="16" font-weight="700">第六步</text><text x="1035" y="206" class="serif" font-size="18">共和失衡</text>
+<text x="70" y="290" class="text" font-size="18" font-weight="600">短期冲击</text>
+<text x="70" y="320" class="muted" font-size="16">案件使政治信任立刻下降，法律空间迅速缩小。</text>
+<text x="430" y="290" class="text" font-size="18" font-weight="600">中期破局</text>
+<text x="430" y="320" class="muted" font-size="16">对抗升级后，议会和政党政治越来越难维持。</text>
+<text x="790" y="290" class="text" font-size="18" font-weight="600">长期失衡</text>
+<text x="790" y="320" class="muted" font-size="16">共和国保留了名义框架，却更快滑向集权和武力逻辑。</text>
+</svg>
